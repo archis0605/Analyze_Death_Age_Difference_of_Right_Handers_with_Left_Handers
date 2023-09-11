@@ -1,2 +1,7 @@
 # Analyze_Death_Age_Difference_of_Right_Handers_with_Left_Handers
-This tasks are assigned to me by MedTourEasy. This project is based on Python Programming Language.
+
+In this project, you will explore this phenomenon using age distribution data to see if we can reproduce a difference in average age at death purely from the changing rates of left-handedness over time, refuting the claim of early death for left-handers. This notebook uses pandas and Bayesian statistics to analyze the probability of being a certain age at death given that you are reported as left-handed or right-handed.
+
+## Project Dataset:
+
+https://drive.google.com/uc?export=download&id=1gSjYHJ8OPM9HMd3prr7XuhvSWWGKYZNE
